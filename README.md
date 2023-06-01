@@ -1,5 +1,4 @@
 # solidity_smartcontracts_tutorial
 
-# CryptoZombies.io 
-# Solidity: Beginner to Intermediate Smart Contracts
-# Lessons 1-6
+Solidity: Beginner to Intermediate Smart Contracts (CZ.io)
+Lessons 1-6
